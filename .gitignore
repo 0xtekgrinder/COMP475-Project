@@ -1,7 +1,9 @@
 Binaries
 DerivedDataCache
 Intermediate
-Saved
+!Saved/
+Saved/*
+!Saved/SaveGames/
 .vscode
 .vs
 *.VC.db
